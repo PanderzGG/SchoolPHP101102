@@ -1,3 +1,5 @@
-Start xampp-control. Start Apache and MySQL Server and continue working on it.
+Starte XAMPP Control. Starte den Apache- und MySQL-Server und arbeite weiter daran.
 
-For beginners, you do not need the README.md or the LICENSE files.
+CSS benutzt rudimentäres Bootstrap.
+
+Anfänger, nicht verwirren lassen du du benötigst die Dateien README.md oder LICENSE nicht.
