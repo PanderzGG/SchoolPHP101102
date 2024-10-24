@@ -58,7 +58,7 @@
             
             </div>
             
-            <div class="mx-auto w-75">
+            <div class="mx-auto w-75 table-responsive">
                 <table class="table table-dark table-striped">
                     <thead>
 
